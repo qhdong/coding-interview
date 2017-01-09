@@ -1,4 +1,5 @@
-OBJECTS = string_literal.out replace_blank.out construct_binarytree.out 
+OBJECTS = string_literal.out replace_blank.out construct_binarytree.out \
+		  excel.out number_of_one.out
 
 include ../GNU_makefile_template
 
