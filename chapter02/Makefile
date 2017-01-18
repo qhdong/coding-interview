@@ -1,7 +1,7 @@
 OBJECTS = string_literal.out replace_blank.out construct_binarytree.out \
 		  excel.out number_of_one.out sort_ages.out \
 		  min_number_in_rotated_array.out stack_based_queue.out \
-		  queue_based_stack.out fibonacci.out
+		  queue_based_stack.out fibonacci.out array_size.out
 
 include ../GNU_makefile_template
 
